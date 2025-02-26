@@ -1,5 +1,4 @@
 import { useState, useEffect, useRef, useMemo } from 'react'
-import './App.css'
 
 interface Card {
   id: number;
